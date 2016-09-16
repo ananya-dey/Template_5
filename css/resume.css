@@ -1,0 +1,44 @@
+#resume h1{
+    font-size: 100px;
+    font-weight: bold;
+    font-family: arial;
+    word-wrap:break-word;
+}
+
+.resume-circle{
+  border-radius: 50%;
+  height: 150px;
+  width: 150px;
+  display: block;
+  background-color: green;
+}
+
+#resume h5{
+    padding: 70px 0;
+}
+
+#resume h4{    
+    font-size: 25px;
+}
+
+#resume small{    
+    font-size: 12px;
+    color: #003333;
+    font-weight: italic;
+}
+.info{
+    padding: 10px 0;
+}
+.info p{
+    padding: 5px 0 5px 20px;
+}
+.info h4,small{
+   padding-left: 20px; 
+}
+#skill-language i{
+    color: #fff;
+}
+@media screen and (max-width: 640px)
+{
+	
+}

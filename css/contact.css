@@ -1,0 +1,20 @@
+#contact h1{
+	font-size: 600%;
+	font-weight: bold;
+	font-family: arial;
+	word-wrap:break-word;
+}
+
+#googleMap{
+	height:380px;
+	margin-top:30px;
+	margin-bottom:30px;
+}
+
+#contact .btn{
+	width: 40%;
+}
+
+#contact .glyphicon{
+	padding-right: 22px;
+}

@@ -1,0 +1,35 @@
+#project h1{
+    font-size: 600%;
+    font-weight: bold;
+    font-family: arial;
+    word-wrap:break-word;
+}
+
+#project .small-circle{
+  height: 100px;
+  width: 100px;
+}
+
+#work{
+  margin: 50px 0;
+}
+
+.item img{
+  width: 100%;
+}
+
+.slider{
+  margin: 10px 0;
+}
+#work{
+  
+}
+
+@media screen and (max-width: 640px)
+{
+	.project-content{
+		max-width: 500px;
+		margin: 0 auto;
+	}
+  
+}
