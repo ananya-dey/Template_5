@@ -3,7 +3,11 @@ body {
   color: #000;
   margin: 0;
   padding: 0;
-  background-color: #00cccc;
+  background-color: #fff;
+}
+
+ul li a{
+  color: #00cccc;
 }
 
 small{
